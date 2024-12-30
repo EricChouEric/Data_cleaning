@@ -23,7 +23,7 @@
 
 # 範例數據
 
-| Name | Arrive | Source Data | Departure Date | Departure Airport | Departure Terminal | Departure Time | Departure Flight |
+| Index | Name | Source Data | Departure Date | Departure Airport | Departure Terminal | Departure Time | Departure Flight |
 | ---- | ------ | --------- | -------------- | ----------------- | ------------------ | -------------- | ---------------- |
 | 1    | N2     | 11.03/인천T1 UO618/11:40 | 11/10 인천T1 UO631/15:55 | 11/10 | 인천 | T1 | 15:55 | UO631 |
 | 2    | N3     | 11/3 인천T1-CX434/12:45 | 11/9 인천T1- CX419 19:35 | 11/09 | 인천 | T1 | 19:35 | CX419 |
