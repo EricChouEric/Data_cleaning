@@ -20,3 +20,21 @@
 
 ### 4. 根據時間排序並輸出為 Excel 檔案
 最後，將整理過的數據根據時間欄位排序，並將結果輸出為新的Excel檔案。
+
+# 範例數據
+
+| Name | Arrive | Source Data | Departure Date | Departure Airport | Departure Terminal | Departure Time | Departure Flight |
+| ---- | ------ | --------- | -------------- | ----------------- | ------------------ | -------------- | ---------------- |
+| 1    | N2     | 11.03/인천T1 UO618/11:40 | 11/10 인천T1 UO631/15:55 | 11/10 | 인천 | T1 | 15:55 | UO631 |
+| 2    | N3     | 11/3 인천T1-CX434/12:45 | 11/9 인천T1- CX419 19:35 | 11/09 | 인천 | T1 | 19:35 | CX419 |
+
+### 說明：
+- **Name**: 用戶標識（例如 N2, N3）
+- **Arrive**: 到達航班的資訊
+- **Departure**: 出發航班的資訊（包含航班號與時間）
+- **Departure Date**: 出發日期
+- **Departure Airport**: 出發機場名稱
+- **Departure Terminal**: 出發航站樓
+- **Departure Time**: 出發時間
+- **Departure Flight**: 出發航班號
+
